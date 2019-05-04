@@ -36,7 +36,7 @@ Conduct may be permanently removed from the project team.
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of threats, abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting a project maintainer (see below). All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. Maintainers are
@@ -50,6 +50,7 @@ themselves available for conduct issues:
 
 - Daira Hopwood (daira at z.cash)
 - Sean Bowe (sean at z.cash)
+
 
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
